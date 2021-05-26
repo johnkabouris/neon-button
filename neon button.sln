@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "neon button", "..\..\..\OneDrive\Desktop\neon button\", "{BCC2CB9B-F87F-4C67-B52E-B641754415EA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57978"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Desktop\neon button\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57978\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57978"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Desktop\neon button\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57978\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57978"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC2CB9B-F87F-4C67-B52E-B641754415EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC2CB9B-F87F-4C67-B52E-B641754415EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A243E59-E8E4-4202-952F-03EEC0E6C1E7}
+	EndGlobalSection
+EndGlobal
